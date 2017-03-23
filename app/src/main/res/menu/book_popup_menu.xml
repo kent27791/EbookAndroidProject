@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Buy book"
+        android:id="@+id/buy_book_action" />
+    <item
+        android:title="Add to favorite"
+        android:id="@+id/add_favorite_book_action" />
+</menu>

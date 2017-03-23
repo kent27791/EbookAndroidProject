@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="book_sort">
+        <item>Tên sản phẩm A - Z</item>
+        <item>Tên sản phẩm Z - A</item>
+        <item>Giá sản phẩm tăng dần</item>
+        <item>Tên sản phẩm giảm dần</item>
+    </string-array>
+</resources>

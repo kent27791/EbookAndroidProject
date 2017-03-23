@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/news_book_card_view"
+    android:layout_width="match_parent"
+    android:layout_height="250dp"
+    card_view:cardUseCompatPadding="true"
+    card_view:cardCornerRadius="8dp"
+    android:layout_marginBottom="16dp">
+
+    <RelativeLayout
+        android:id="@+id/content_relative_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/thumbnail_book_image_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@android:drawable/sym_def_app_icon"
+            android:scaleType="centerCrop"/>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:layout_alignParentBottom="true"
+            android:background="#BF000000">
+
+            <TextView
+                android:id="@+id/title_book_text_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="15sp"
+                android:text="Đất rừng phương nam"
+                android:textColor="@android:color/primary_text_dark"
+                android:layout_marginBottom="5dp"/>
+
+            <TextView
+                android:id="@+id/author_book_text_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="10sp"
+                android:text="Đoàn Giỏi"
+                android:textColor="@android:color/primary_text_dark"
+                android:layout_marginBottom="5dp"
+                android:layout_below="@+id/title_book_text_view"/>
+
+            <TextView
+                android:id="@+id/sale_book_text_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="10sp"
+                android:textStyle="bold"
+                android:background="@drawable/square_radius_6"
+                android:textColor="@color/textColor"
+                android:text="20.000đ"
+                android:layout_below="@+id/author_book_text_view"
+                android:layout_marginRight="5dp"/>
+
+            <TextView
+                android:id="@+id/sale_off_book_text_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="10sp"
+                android:textStyle="bold"
+                android:text="15.000đ"
+                android:background="@drawable/square_radius_5"
+                android:textColor="@color/textColor"
+                android:layout_toRightOf="@id/sale_book_text_view"
+                android:layout_below="@id/author_book_text_view" />
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/hover_relative_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#BF000000"
+        android:visibility="gone">
+
+        <ImageButton
+            android:id="@+id/read_book_image_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_book_white_48dp"
+            android:background="?android:selectableItemBackground"
+            android:layout_centerInParent="true"/>
+
+        <ImageButton
+            android:id="@+id/buy_book_image_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="?android:selectableItemBackground"
+            android:src="@drawable/ic_shopping_cart_white_24dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"/>
+
+        <ImageButton
+            android:id="@+id/add_favorite_book_image_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="?android:selectableItemBackground"
+            android:src="@drawable/ic_favorite_border_white_24dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"/>
+
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>

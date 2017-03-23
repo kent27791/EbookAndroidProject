@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EbookStore</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="category_book">Danh mục</string>
+    <string name="author_book">Tác giả</string>
+    <string name="publisher_book">Nhà xuất bản</string>
+    <string name="supplier_book">Nhà phát hành</string>
+    <string name="price_book">Giá</string>
+    <string name="terms">Tôi đã đọc và hiểu rõ các điều khoản và chính sách bảo mật của Ebook</string>
+</resources>

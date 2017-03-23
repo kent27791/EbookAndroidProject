@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\phanx\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\Users\phanx\AndroidStudioProjects\EbookProject\app\build\intermediates\pre-dexed\debug\converter-gson-2.1.0_1e960692b53e552ad3bc3d89de15b2158912b3b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\phanx\AndroidStudioProjects\EbookProject\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\phanx\AndroidStudioProjects\EbookProject\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_ef3b205b041d036ce24142d2ed4f60a6991d8c54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\phanx\AndroidStudioProjects\EbookProject\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\phanx\AndroidStudioProjects\EbookProject\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_df900d9bbb09708623fe2d2f8a0a800cab54d1f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\phanx\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Users\phanx\AndroidStudioProjects\EbookProject\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_d2bddee5fc8c598d86dd6df34ccfc2b82e08b239.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\phanx\AndroidStudioProjects\EbookProject\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\phanx\AndroidStudioProjects\EbookProject\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_0f291cb5cd6b2b4888fe7f6557736a72405855c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\phanx\AndroidStudioProjects\EbookProject\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\phanx\AndroidStudioProjects\EbookProject\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_6d77fcd6b475ea5a67e120478b7840548b8a0297.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\phanx\AndroidStudioProjects\EbookProject\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\phanx\AndroidStudioProjects\EbookProject\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_34d9c662cc6f0c6a6a4f2d59295d4683dc615ef7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\phanx\AndroidStudioProjects\EbookProject\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\phanx\AndroidStudioProjects\EbookProject\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_c88cd2154cb8670fd4bdbbdc934b2f59cee07b7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\phanx\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.1.0\693eddc23e87ab13f9cf5001707ce8e7e1d1ff01\adapter-rxjava-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="C:\Users\phanx\AndroidStudioProjects\EbookProject\app\build\intermediates\pre-dexed\debug\adapter-rxjava-2.1.0_d4fcea4b9151740da9df88f12397a07e6c78171c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\phanx\AndroidStudioProjects\EbookProject\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="C:\Users\phanx\AndroidStudioProjects\EbookProject\app\build\intermediates\pre-dexed\debug\io.reactivex-rxandroid-1.1.0_3fa7c689af272cf7f1903993fe9c583a5c51192c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\phanx\AndroidStudioProjects\EbookProject\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\phanx\AndroidStudioProjects\EbookProject\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_c13768a97fde4ce85e490fdc0ef7dcc17e9f3a4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\phanx\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.5\ece7b5d0870e66d8226dab6dcf47a2b12afff061\rxjava-1.1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ece7b5d0870e66d8226dab6dcf47a2b12afff061">
+        <dex dex="C:\Users\phanx\AndroidStudioProjects\EbookProject\app\build\intermediates\pre-dexed\debug\rxjava-1.1.5_6e58accf0b53a8bc67e6a9bd253bc43ebba30c73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\phanx\.gradle\caches\modules-2\files-2.1\com.google.dagger\dagger\2.5\571f4e0451db64a7b41dbeb5f2503986fe5acdb4\dagger-2.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="571f4e0451db64a7b41dbeb5f2503986fe5acdb4">
+        <dex dex="C:\Users\phanx\AndroidStudioProjects\EbookProject\app\build\intermediates\pre-dexed\debug\dagger-2.5_89f4d5de1f5d91a3aa88c78ebe85cabddd7b7741.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\phanx\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="C:\Users\phanx\AndroidStudioProjects\EbookProject\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.4.0_708d51c3a5c5235eb613832af0f371a78d050c67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\phanx\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\phanx\AndroidStudioProjects\EbookProject\app\build\intermediates\pre-dexed\debug\glide-3.7.0_6b0546c9fb4907b8bc1186647e9199b53040be82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\phanx\AndroidStudioProjects\EbookProject\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\phanx\AndroidStudioProjects\EbookProject\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_b5e3f19801c41b9ea629e36f93695304406737af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\phanx\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\phanx\AndroidStudioProjects\EbookProject\app\build\intermediates\pre-dexed\debug\gson-2.7_02659d9ac71f686cc15230970b4a29baab182999.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\phanx\AndroidStudioProjects\EbookProject\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\phanx\AndroidStudioProjects\EbookProject\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_18c66cc43133809db27cb1416351b0974822050f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\phanx\AndroidStudioProjects\EbookProject\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="C:\Users\phanx\AndroidStudioProjects\EbookProject\app\build\intermediates\pre-dexed\debug\com.jakewharton-butterknife-8.4.0_884153f4f8dd3051c5159bb11098636ac59857c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\phanx\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="C:\Users\phanx\AndroidStudioProjects\EbookProject\app\build\intermediates\pre-dexed\debug\okhttp-3.3.0_3b77828d48e63b33357f8cfcb3311c396fc8aafc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\phanx\AndroidStudioProjects\EbookProject\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\phanx\AndroidStudioProjects\EbookProject\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_40f73215d6f8af3ab1283b3b1982e42a65a2d599.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\phanx\AndroidStudioProjects\EbookProject\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\phanx\AndroidStudioProjects\EbookProject\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_b0c82140ac60d351665c092e8f6fd25a16381173.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\phanx\AndroidStudioProjects\EbookProject\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="C:\Users\phanx\AndroidStudioProjects\EbookProject\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.2.1_56112366f34a02027f0177fe740be5a5da5a62df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\phanx\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\phanx\AndroidStudioProjects\EbookProject\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_93bea74a4b7ad3a513b98edd0af81284a9a106a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\phanx\AndroidStudioProjects\EbookProject\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\phanx\AndroidStudioProjects\EbookProject\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_ec62f19538da4e3dd24a4824f773988e13280ecc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\phanx\AndroidStudioProjects\EbookProject\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\phanx\AndroidStudioProjects\EbookProject\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_805ff35c5a60fd64297d6716913560179f1995ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\phanx\AndroidStudioProjects\EbookProject\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\phanx\AndroidStudioProjects\EbookProject\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_1aaae58b326656de64e890fd697abd188be4eed1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\phanx\AndroidStudioProjects\EbookProject\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\phanx\AndroidStudioProjects\EbookProject\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_e4f781461c1231cf0d77392341c0cc87646884c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\phanx\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\phanx\AndroidStudioProjects\EbookProject\app\build\intermediates\pre-dexed\debug\javax.inject-1_93eb2874006af2ab307b2ad73490b1f10af79f92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\phanx\AndroidStudioProjects\EbookProject\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\phanx\AndroidStudioProjects\EbookProject\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_6eb1602cbd0dec10d9bc2819d658c16e30ab29f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\phanx\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\phanx\AndroidStudioProjects\EbookProject\app\build\intermediates\pre-dexed\debug\okio-1.8.0_2889eb9a482301b3bb027adbfce20ff738306e88.jar" />
+    </item>
+
+</items>

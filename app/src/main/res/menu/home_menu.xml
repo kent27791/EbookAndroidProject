@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!--android:actionLayout="@layout/content_search_item"-->
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/ic_search_black_24dp"
+        android:title="Search"
+        android:orderInCategory="100"
+        app:actionViewClass="android.support.v7.widget.SearchView"
+        app:showAsAction="always|collapseActionView" />
+
+    <item
+        android:id="@+id/action_menu_more"
+        android:title="Menu"
+        android:icon="@drawable/ic_more_vert_white_24dp"
+        android:orderInCategory="101"
+        app:showAsAction="always">
+
+        <menu>
+
+            <item
+                android:id="@+id/action_sign_in"
+                android:title="Đăng nhập"
+                android:icon="@drawable/ic_person_black_24dp"
+                android:orderInCategory="102" />
+
+            <item
+                android:id="@+id/action_sign_in_success"
+                android:title="Xin chào"
+                android:icon="@drawable/ic_person_black_24dp"
+                android:orderInCategory="103"
+                android:visible="false"/>
+
+            <item
+                android:id="@+id/action_terms"
+                android:title="Chính sách"
+                android:icon="@drawable/ic_assignment_black_24dp"
+                android:orderInCategory="104" />
+
+            <item
+                android:id="@+id/action_setting"
+                android:title="Cài đặt"
+                android:icon="@drawable/ic_settings_black_24dp"
+                android:orderInCategory="105" />
+
+            <item
+                android:id="@+id/action_logout"
+                android:title="Thoát"
+                android:icon="@drawable/ic_settings_black_24dp"
+                android:orderInCategory="106"
+                android:visible="false"/>
+
+        </menu>
+
+    </item>
+
+
+
+</menu>
